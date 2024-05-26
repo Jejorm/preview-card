@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/blog-card-preview-ujHK6gEJAj)
 - Live Site URL: [Live Site](mentorcardpreview.netlify.app)
 
 ## My process
